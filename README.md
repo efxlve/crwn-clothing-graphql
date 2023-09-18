@@ -1,1 +1,1 @@
-# crwn-clothing-graphql
+# CRWN Clothing Graphql
