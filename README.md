@@ -1,4 +1,4 @@
-# CRWN Clothing GraphQL
+# CRWN Clothing (GraphQL)
 CRWN Clothing is an e-commerce website built with React, GraphQL and Firebase. It is a clothing store that allows users to add items to their cart and checkout. It also has a sign in and sign up page that uses Firebase to authenticate users.
 
 This is a GraphQL version of the [CRWN Clothing](https://github.com/efxlve/crwn-clothing) project.
